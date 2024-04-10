@@ -11,6 +11,6 @@ public class MyController {
     public String sayHello() {
         System.out.println("I'm in the controller");
 
-        return "I'm the return";
+        return "I am the return";
     }
 }
